@@ -1,0 +1,9 @@
+{
+  "name": "is-human-url",
+  "repo": "segmentio/is-human-url",
+  "description": "Check whether a string is vaguely a URL.",
+  "version": "0.1.0",
+  "keywords": ["url", "regexp", "regex", "validate"],
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
