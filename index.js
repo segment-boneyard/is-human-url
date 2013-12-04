@@ -10,7 +10,7 @@ module.exports = isHumanUrl;
  * Matcher.
  */
 
-var matcher = /^([^\s\.]+\.[^\s]{2,}|localhost)$/;
+var matcher = /^([^\s\.]+\.[^\s]{2,}|localhost|([^\s\.]+:\/\/localhost))$/;
 
 
 /**
